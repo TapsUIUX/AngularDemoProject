@@ -1,0 +1,38 @@
+// /* You can add global styles to this file, and also import other style files */
+ 
+         
+// look : {
+//     sd__stripeClass:"",
+//     sd__globalSearchBarInputClass:"",
+//     sd__globalSearchBarContainerClass:"",
+//     sd__tableWrapperClass:"",
+//     sd__headerCellClass:"",
+//     sd__contentCellClass:"",
+//     sd__inputTextClass:"",
+//     sd__inputCheckBoxClass:"",
+//     sd__inputSelectClass:"",
+//     sd__inputButtonClass:"",
+//     sd__paginationClass:"",
+//     sd__tableFooterContainerClass:"",
+//     sd__innerSearchBarInputClass:"",
+//     sd__tableFooterButtonClass:""
+//     }
+    
+   //dont forget to use Important 
+.sd__stripeClass{
+    background-color: rgba(0, 0, 255, 0.378) !important;
+}
+.sd__headerCellClass{
+    background-color: rgb(56, 56, 218) !important;
+    color:white;
+}
+
+.bgBlue{
+    background-color: rgb(56, 56, 218) !important;
+}
+.sd__notifyInfoClass{
+    background-color: rgb(56, 56, 218) !important;
+}
+.sd__notifyWarnClass{
+    background-color: chocolate !important;
+}

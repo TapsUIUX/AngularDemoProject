@@ -1,0 +1,20 @@
+.sd__stripeClass {
+  background-color: rgba(0, 0, 255, 0.378) !important;
+}
+
+.sd__headerCellClass {
+  background-color: #3838da !important;
+  color: white;
+}
+
+.bgBlue {
+  background-color: #3838da !important;
+}
+
+.sd__notifyInfoClass {
+  background-color: #3838da !important;
+}
+
+.sd__notifyWarnClass {
+  background-color: chocolate !important;
+}
